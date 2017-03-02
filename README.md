@@ -1,7 +1,7 @@
 SparkFun TMP102 Arduino Library
 ======================
 
-[![Breakout Board ISO](https://cdn.sparkfun.com/assets/parts/1/0/5/9/3/13314-01a.jpg)
+![Breakout Board ISO](https://cdn.sparkfun.com/assets/parts/1/0/5/9/3/13314-01a.jpg)
 
 _[TMP102 Breakout Board (SEN-11931)](https://www.sparkfun.com/products/13314)_
 
